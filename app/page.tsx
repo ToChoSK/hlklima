@@ -409,7 +409,7 @@ export default function HomePage() {
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900">Lukáš Haľko - váš expert na klimatizácie</h2>
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
               <p>
-                Som Lukáš Haľko a venujem sa klimatizačným systémom už viac ako 15 rokov. Moja spoločnosť HLKlima sa
+                Som Lukáš Haľko a venujem sa klimatizačným systémom už viac ako 10 rokov. Moja spoločnosť HLKlima sa
                 špecializuje na komplexné riešenia v oblasti klimatizácie, tepelných čerpadiel a rekuperačných systémov.
               </p>
               <p>
@@ -479,7 +479,7 @@ export default function HomePage() {
                 <MapPin className="h-8 w-8 text-white" />
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Oblasť pôsobenia</h3>
-              <p className="text-gray-600">Slovensko</p>
+              <p className="text-gray-600">Východné Slovensko</p>
             </Card>
           </div>
           <div className="text-center mt-12">
