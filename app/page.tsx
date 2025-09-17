@@ -287,7 +287,7 @@ export default function HomePage() {
                 </div>
                 <div className="text-center">
                   <div className="text-2xl font-bold text-gray-900">100+</div>
-                  <div className="text-sm text-gray-600">Spokojných zákazníkov</div>
+                  <div className="text-sm text-gray-600">Namontovaných klimatizácií</div>
                 </div>
                 <div className="text-center">
                   <div className="text-2xl font-bold text-gray-900">100%</div>
