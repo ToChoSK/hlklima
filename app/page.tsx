@@ -114,6 +114,8 @@ export default function HomePage() {
     { id: 10, image: "/images/project-10.jpg", title: "Midea vonkajšia jednotka" },
     { id: 11, image: "/images/project-11.jpg", title: "Klimatizácia v detskej izbe" },
     { id: 12, image: "/images/project-12.jpg", title: "Elegantná inštalácia s tapetou" },
+    { id: 13, image: "/images/project-13.jpg", title: "Inštalácia Midea z diaľky" },
+    { id: 14, image: "/images/project-14.jpg", title: "Midea detajl" }
   ]
 
   const features = [
