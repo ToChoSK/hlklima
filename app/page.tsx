@@ -229,7 +229,18 @@ export default function HomePage() {
             >
               Kontakt
             </button>
+
+            <a
+                href="https://maps.app.goo.gl/uUH9n4opL1XQcfKu5"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm font-medium text-gray-700 hover:text-cyan-600 transition-colors"
+            >
+              Pridať recenziu na Googli
+            </a>
+
           </nav>
+
           <Button
             onClick={handleCallNow}
             className="bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700"
